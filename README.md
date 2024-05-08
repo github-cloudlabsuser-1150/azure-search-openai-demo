@@ -1,6 +1,6 @@
 ---
 name: ChatGPT + Enterprise data
-description: Chat with your data using OpenAI and AI Search.
+description: Chat with your data using OpenAI and AI Search. Test
 languages:
 - python
 - typescript
